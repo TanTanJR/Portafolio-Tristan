@@ -2,7 +2,7 @@
 
 Soy estudiante del último trimestre de **Desarrollo de Aplicaciones Web (DAW) en ILERNA** y busco mis primeras prácticas u oportunidad profesional. Me interesa especialmente el desarrollo backend, además del frontend y las bases de datos.
 
-**[Ver el portafolio publicado](https://portafolio-tristan.vercel.app/)** · **[Ver mi CV](Tristan_Perez_Vecina_CV.pdf)**
+**[Ver el portafolio publicado](https://portafolio-tristan.vercel.app/)** · **[Ver mi CV](Tristan_Perez_Vecina_CV_actualizado.pdf)**
 
 ## Qué encontrarás
 
@@ -36,7 +36,7 @@ El sitio es estático y no necesita un proceso de compilación.
 - `index.html`: contenido y estructura de la página.
 - `css/`: estilos.
 - `js/`: interacciones.
-- `Tristan_Perez_Vecina_CV.pdf`: currículum enlazado desde el portafolio.
+- `Tristan_Perez_Vecina_CV_actualizado.pdf`: currículum enlazado desde el portafolio.
 
 ## Publicación
 
