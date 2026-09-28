@@ -1,6 +1,6 @@
 # Portafolio de Tristán Pérez Vecina
 
-Soy estudiante del último trimestre de **Desarrollo de Aplicaciones Web (DAW) en ILERNA** y busco mis primeras prácticas u oportunidad profesional. Me interesa especialmente el desarrollo backend, además del frontend y las bases de datos.
+Soy estudiante del último trimestre de **Desarrollo de Aplicaciones Web (DAW) en ILERNA** y busco mis primeras prácticas u oportunidad profesional. Busco prácticas tanto de frontend como de backend para aprender cómo trabaja un equipo, contribuir en proyectos reales y ganar experiencia.
 
 **[Ver el portafolio publicado](https://portafolio-tristan.vercel.app/)** · **[Ver mi CV](Tristan_Perez_Vecina_CV_actualizado.pdf)**
 
