@@ -17,7 +17,9 @@ Estos proyectos siguen en mejora. En cada repositorio explico las funcionalidade
 
 ## Tecnologías
 
-HTML · CSS · JavaScript · PHP · MySQL · Supabase · Git · GitHub · Vercel. También estoy aprendiendo C# y .NET; mi nivel en C# es básico.
+- **Nivel medio:** JavaScript, C#, HTML y CSS.
+- **Nociones básicas:** .NET, PHP, SQL y Python.
+- **Herramientas utilizadas:** Git, GitHub, Visual Studio Code, XAMPP, Vercel y Supabase.
 
 ## Ejecutar en local
 
